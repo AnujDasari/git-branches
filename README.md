@@ -1,1 +1,1 @@
-A Git Bootcamp that teaches you about creating branches, merging branches, deleting branches and resolving conflicts while working on real time projects
+A small project that demonstrates about creation, merging and deletion of branches and resolving conflicts while working on real time projects using git.
